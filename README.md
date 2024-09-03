@@ -1,4 +1,4 @@
-# Covid-19_-Covid-postive-cases-Analysis
+# Covid-19_Analysis
 For dataset you can download from kaggle website covid-19.csv
 Here i used 2 algorithms with that 2 i can found which algorithm is best one and i can comparie the results also.
 https://www.kaggle.com/datasets/imdevskp/corona-virus-report. 
